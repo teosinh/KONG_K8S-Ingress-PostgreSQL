@@ -1,5 +1,7 @@
 # KONG_K8S-Ingress-PostgreSQL
 
+https://viblo.asia/p/trien-khai-api-gateway-len-kubernetes-voi-kong-api-gateway-konga-va-postgresql-Do754z44ZM6
+
  Triển khai API Gateway lên Kubernetes với Kong API Gateway, Konga và PostgreSQL
 
 Chào mọi người, lại là mình đây. Tiếp tục chuỗi bài viết tìm hiểu về Kubernetes và Microservices Archiecture, bài viết hôm nay chúng ta cùng triển khai thực tế một API gateway lên Kubernetes thông qua ví dụ cụ thể nhé
